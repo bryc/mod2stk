@@ -1,0 +1,7 @@
+mod2stk
+-------
+
+Goals:
+ - Analyze MOD/STK files to determine (guess) original tracker
+ - Generate a analysis report showing effect usage, sample parameters, etc.
+ - Convert MOD to STK when possible (support different flavors of STK)
